@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Accelerometre</string>
+    <string name="title_activity_senseur">Senseur</string>
+</resources>
